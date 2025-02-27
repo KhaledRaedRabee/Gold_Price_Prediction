@@ -2,7 +2,7 @@
 
 This project predicts gold prices (GLD) based on financial indicators like S&P 500, Crude Oil ETF, Silver ETF, and the EUR/USD exchange rate.
 
-#Dataset Description:
+# Dataset Description:
 
 SPX: The closing values of the S&P 500 index, a broad measure of the U.S. stock market's performance.
 
